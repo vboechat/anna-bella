@@ -11,7 +11,7 @@ The objective of this project is to learn on how to create a website using HTML 
 ## Roadmap
   - [X] Home
   - [X] Biography (Biografia)
-  - [ ] Advertising Campaigns (Campanhas publicitárias)
+  - [X] Advertising Campaigns (Campanhas publicitárias)
   - [ ] Contact (Contato)
   - [ ] Navigation (Navegação)
 
