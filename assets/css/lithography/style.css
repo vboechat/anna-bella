@@ -1,0 +1,11 @@
+a {
+    color: var(--anchor-color);
+    text-decoration: var(--text-decoration-none);
+    font-weight: var(--font-bold);
+    padding: var(--anchor-padding);
+}
+
+h1 {
+    color: var(--h1-color);
+    font-size: var(--h1-font-size);
+}

@@ -1,0 +1,8 @@
+#content {
+    background-color: var(--content-background);
+    padding: var(--content-padding);
+}
+
+.campaign-images {
+    border: var(--campain-images-border);
+}

@@ -1,0 +1,27 @@
+:root {
+    --text-decoration-none: none;
+    --text-align-center: center;
+    
+    --h1-color: #828271;
+    --h1-font-size: 1.2em;
+
+    --anchor-color: #4b566a;
+    --anchor-padding: 5px;
+
+    --background-color: #d2d2c1;
+    --background-image: url("../../images/background.png");
+
+    --font-size: 1rem;
+    --font-family: Arial, Helvetica, sans-serif; 
+    --font-bold: bold;
+
+    --main-width: 900px; 
+
+    --menu-background: #c5c5b2;
+    --menu-padding: 18px;
+
+    --content-background: #e8e8d9;
+    --content-padding: 10px;
+
+    --campain-images-border: 10px solid #c3c3ae;
+}
