@@ -9,7 +9,7 @@ The objective of this project is to learn on how to create a website using HTML 
  2. Open the `index.html` file on your browser.
 
 ## Roadmap
-  - [ ] Home
+  - [X] Home
   - [ ] Biography (Biografia)
   - [ ] Advertising Campaigns (Campanhas publicitárias)
   - [ ] Contact (Contato)
