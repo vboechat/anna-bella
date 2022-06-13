@@ -12,8 +12,8 @@ The objective of this project is to learn on how to create a website using HTML 
   - [X] Home
   - [X] Biography (Biografia)
   - [X] Advertising Campaigns (Campanhas publicitárias)
-  - [ ] Contact (Contato)
-  - [ ] Navigation (Navegação)
+  - [X] Contact (Contato)
+  - [X] Navigation (Navegação)
 
 ## Acknowledgments
 [Desenvolvimento Web Completo 2022](https://www.udemy.com/course/web-completo/)
