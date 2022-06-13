@@ -1,0 +1,4 @@
+#content {
+    background-color: var(--content-background);
+    padding: var(--content-padding);
+}
