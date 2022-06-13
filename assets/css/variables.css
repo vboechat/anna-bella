@@ -9,7 +9,7 @@
     --anchor-padding: 5px;
 
     --background-color: #d2d2c1;
-    --background-image: "../images/background.png";
+    --background-image: url("../images/background.png");
 
     --font-size: 1rem;
     --font-family: Arial, Helvetica, sans-serif; 
